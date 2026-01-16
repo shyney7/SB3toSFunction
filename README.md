@@ -60,6 +60,7 @@ Download LibTorch from [pytorch.org](https://pytorch.org/get-started/locally/):
 ```matlab
 mex -setup C++
 ```
+Note: LibTorch for Windows is built with MSVC (Visual Studio) and is not compatible with MinGW/GCC due to ABI differences. 
 
 ### 5. Compile the S-Function
 
