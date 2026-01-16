@@ -39,7 +39,7 @@ pip install stable-baselines3>=2.0.0 torch>=2.0.0 gymnasium numpy
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/SB3toSFunction.git
+git clone https://github.com/shyney7/SB3toSFunction.git
 cd SB3toSFunction
 ```
 
