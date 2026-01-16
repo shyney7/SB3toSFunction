@@ -343,4 +343,4 @@ For issues and questions:
 - If nothing of the above mentioned helps create a github issue
 
 ## Contribution
-Any kind of contributions are appriciated just create a pull request!
+Any kind of contribution is appreciated just create a pull request!
