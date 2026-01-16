@@ -339,5 +339,8 @@ create_test_model('custom_model', 12, 4, 'my_model.pt')
 
 For issues and questions:
 - Check the troubleshooting section above
-- Review the CLAUDE.md specification file
 - Verify all prerequisites are met
+- If nothing of the above mentioned helps create a github issue
+
+## Contribution
+Any kind of contributions are appriciated just create a pull request!
